@@ -1,5 +1,5 @@
 # sandipavere
-
+# strong and confirm password by using javascript
 
 <html>
     <head>
